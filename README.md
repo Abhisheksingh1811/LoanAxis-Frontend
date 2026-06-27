@@ -58,7 +58,7 @@ Backend stack:
 Backend repository:
 
 ```text
-https://github.com/Abhisheksingh1811/Loan-Application-Backend
+https://github.com/Abhisheksingh1811/LoanAxis-Backend
 ```
 
 ---
